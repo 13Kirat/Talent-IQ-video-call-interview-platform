@@ -1,6 +1,6 @@
 <h1 align="center">✨ Full-Stack Interview Platform ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<!-- ![Demo App](/frontend/public/screenshot-for-readme.png) -->
 
 ✨ Highlights:
 
@@ -18,9 +18,6 @@
 - 🧠 Background Jobs with Inngest (async tasks)
 - 🧰 REST API with Node.js & Express
 - ⚡ Data Fetching & Caching via TanStack Query
-- 🤖 CodeRabbit for PR Analysis & Code Optimization
-- 🧑‍💻 Git & GitHub Workflow (branches, PRs, merges)
-- 🚀 Deployment on Sevalla (free-tier friendly)
 
 ---
 
